@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699687892 source:c:\users\ben\desktop\c projects\neutro\code.c
+	<stdio.h>
+	<string.h>
+
